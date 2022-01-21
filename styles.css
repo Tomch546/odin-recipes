@@ -1,0 +1,17 @@
+* {
+	background-color: #e6e6e6;
+	font-family: "Verdana", sans-serif;
+	color: #1a1a1a;
+}
+
+h1, h2, h3 {
+	font-family: "Helvetica", sans-serif;
+	color: #333333;
+}
+
+.cookies,
+.toast,
+.lemonade{
+	width: 500px;
+	height: auto;
+}
